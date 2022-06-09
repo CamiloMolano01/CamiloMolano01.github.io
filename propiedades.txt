@@ -1,0 +1,5 @@
+user.name.first=edward
+user.name.second=camilo
+user.lastname.first=molano
+user.lastname.second=salamanca
+user.date.born=02/11/2000
